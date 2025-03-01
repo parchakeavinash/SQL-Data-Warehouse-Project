@@ -14,9 +14,9 @@ This project involves:
 4. **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
-1. SQL Development
-2. Data Architect
-3. Data Engineering
-4. ETL Pipeline Developer
-5. Data Modeling
-6. Data Analytics
+- SQL Development
+-  Data Architect
+-  Data Engineering
+-  ETL Pipeline Developer
+-  Data Modeling
+-  Data Analytics
