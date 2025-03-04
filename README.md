@@ -51,4 +51,12 @@ Develop SQL-based analytics to deliver detailed insights into:
   
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+## 🌟 About Me
+
+Hi, I'm **Avinash Parchaeke**, an AI student with a strong passion for **Data Analytics and Data Engineering**. I have a solid foundation in **SQL,Python, PowerBI, Excel, AWS, Data Architecture, and Analytical Problem-solving**. I enjoy transforming raw data into meaningful insights and building efficient data solutions. Currently, I'm working on my resume project, 'Data Warehouse with SQL from Scratch.' I'm actively seeking opportunities in this field to apply my skills and grow as a Data professional.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+[LinkedIn](https://www.linkedin.com/in/your-profile).
+[Github]((https://github.com/parchakeavinash)).
+[Email]((avinashparchake781@gmail.com)).
 
